@@ -4,27 +4,20 @@
 	</head>
 	<body>
 		<?php
-			
-			$servername = "localhost";
-			$username = "root";
-			$password = "313b6b73434";
 			$integrante = $_REQUEST['boton'];
-			$conn = @mysql_connect('localhost', 'root', '313b6b73434');
-			if (!$conn) {
-				echo "Error.";
-			} else {
-				if ($integrante == "Esteban Cabrera Arevalo"){
-					$sql = "SELECT FROM integrantes WHERE nombre='".$integrante."';";
-				}
-			
-
-				mysql_select_db("curriculums", $conn);
-				$resultado = mysql_query($sql,$conn);
-
-				echo "hola";
-				mysql_close($conn);
-				
-			}
+			if ($integrante == "Esteban Cabrera Arevalo"){
+				echo "<center>";
+				echo "<h1>Esteban Cabrera Arevalo</h1></br>";
+				echo "<img src="esteban.jpg"/>";
+				echo "<h3>Edad: 19.</h3>";
+				echo "<h3>Fecha de nacimiento: 07-08-1998.</h3>";
+				echo "<h3>Lugar de nacimiento: Guatemala, Guatemala,</h3>";
+				echo "<h3>Domicilio: 14 AVE A 3-60 Z15.</h3>";
+				echo "<h3>Telefono: 5710-2722.</h3>";
+				echo "<h3>Correo: cab17781@uvg.edu.gt.</h3>";
+				echo "<h3>Lenguajes: Ingl&eacutes, espanol, C/C++, C#, Java, Python, Pascal, MySQL, Php, Javascript, JQuery. </h3>";
+				echo "</center>";
+			}	
 		?>
 	</body>
 </html>
