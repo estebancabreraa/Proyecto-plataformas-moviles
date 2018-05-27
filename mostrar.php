@@ -25,7 +25,7 @@
 				echo "<h3>Edad: 20.</h3>";
 				echo "<h3>Fecha de nacimiento: 21-01-1998.</h3>";
 				echo "<h3>Lugar de nacimiento: Coban, Alta Verapaz,</h3>";
-				echo "<h3>Domicilio: Pendiente.</h3>";
+				echo "<h3>Domicilio: ZONA 16.</h3>";
 				echo "<h3>Telefono: 5906-1822.</h3>";
 				echo "<h3>Correo: hen17699@uvg.edu.gt.</h3>";
 				echo "<h3>Lenguajes: Ingl&eacutes, espanol, Java, Python. </h3>";
@@ -44,19 +44,6 @@
 				echo "<h3>Lenguajes: Ingl&eacutes, espanol, aleman, C#, C++ Java, Python. </h3>";
 				echo "</center>";
 			}	
-			elif ($integrante == "Ana Lucia Hernandez Ordonez"){
-				echo "<center>";
-				echo "<h1>Ana Lucia Hernandez Ordonez</h1></br>";
-				echo "<img src="ana.jpg"/>";
-				echo "<h3>Edad: 19.</h3>";
-				echo "<h3>Fecha de nacimiento: 11-03-1999.</h3>";
-				echo "<h3>Lugar de nacimiento: Guatemala, Guatemala,</h3>";
-				echo "<h3>Domicilio: KM 17.5 CARRETERA A EL SALVADOR, ARRAZOLA 1, FRAIJANES.</h3>";
-				echo "<h3>Telefono: 2812-9917.</h3>";
-				echo "<h3>Correo: her17138@uvg.edu.gt.</h3>";
-				echo "<h3>Lenguajes: Ingl&eacutes, espanol, aleman, C#, C++ Java, Python. </h3>";
-				echo "</center>";
-			}
 			elif ($integrante == "Kevin Sebastian Macario Xiloj"){
 				echo "<center>";
 				echo "<h1>Kevin Sebastian Macario Xiloj</h1></br>";
