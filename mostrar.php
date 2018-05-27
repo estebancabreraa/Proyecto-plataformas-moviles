@@ -8,7 +8,7 @@
 			if ($integrante == "Esteban Cabrera Arevalo"){
 				echo "<center>";
 				echo "<h1>Esteban Cabrera Arevalo</h1></br>";
-				echo "<img src="esteban.jpg"/>";
+				echo "<img src='esteban.jpg'/>";
 				echo "<h3>Edad: 19.</h3>";
 				echo "<h3>Fecha de nacimiento: 07-08-1998.</h3>";
 				echo "<h3>Lugar de nacimiento: Guatemala, Guatemala,</h3>";
@@ -17,11 +17,10 @@
 				echo "<h3>Correo: cab17781@uvg.edu.gt.</h3>";
 				echo "<h3>Lenguajes: Ingl&eacutes, espanol, C/C++, C#, Java, Python, Pascal, MySQL, Php, Javascript, JQuery. </h3>";
 				echo "</center>";
-			}
-			elif ($integrante == "Alexis Fernando Hengstenberg Chocoj"){
+			} else if ($integrante == "Alexis Fernando Hengstenberg Chocoj"){
 				echo "<center>";
 				echo "<h1>Alexis Fernando Hengstenberg Chocoj</h1></br>";
-				echo "<img src="alexis.jpg"/>";
+				echo "<img src='alexis.jpeg'/>";
 				echo "<h3>Edad: 20.</h3>";
 				echo "<h3>Fecha de nacimiento: 21-01-1998.</h3>";
 				echo "<h3>Lugar de nacimiento: Coban, Alta Verapaz,</h3>";
@@ -30,11 +29,10 @@
 				echo "<h3>Correo: hen17699@uvg.edu.gt.</h3>";
 				echo "<h3>Lenguajes: Ingl&eacutes, espanol, Java, Python. </h3>";
 				echo "</center>";
-			}
-			elif ($integrante == "Ana Lucia Hernandez Ordonez"){
+			} else if ($integrante == "Ana Lucia Hernandez Ordonez"){
 				echo "<center>";
 				echo "<h1>Ana Lucia Hernandez Ordonez</h1></br>";
-				echo "<img src="ana.jpg"/>";
+				echo "<img src='ana.jpeg'/>";
 				echo "<h3>Edad: 19.</h3>";
 				echo "<h3>Fecha de nacimiento: 11-03-1999.</h3>";
 				echo "<h3>Lugar de nacimiento: Guatemala, Guatemala,</h3>";
@@ -43,11 +41,10 @@
 				echo "<h3>Correo: her17138@uvg.edu.gt.</h3>";
 				echo "<h3>Lenguajes: Ingl&eacutes, espanol, aleman, C#, C++ Java, Python. </h3>";
 				echo "</center>";
-			}	
-			elif ($integrante == "Kevin Sebastian Macario Xiloj"){
+			} else if ($integrante == "Kevin Sebastian Macario Xiloj"){
 				echo "<center>";
 				echo "<h1>Kevin Sebastian Macario Xiloj</h1></br>";
-				echo "<img src="kevin.jpg"/>";
+				echo "<img src='kevin.jpeg'/>";
 				echo "<h3>Edad: 18.</h3>";
 				echo "<h3>Fecha de nacimiento: 10-07-1999.</h3>";
 				echo "<h3>Lugar de nacimiento: Guatemala, Guatemala,</h3>";
@@ -56,11 +53,10 @@
 				echo "<h3>Correo: Mac17369@uvg.edu.gt.</h3>";
 				echo "<h3>Lenguajes: Ingl&eacutes, espanol, C#, Java, Python. </h3>";
 				echo "</center>";
-			}
-			elif ($integrante == "Raul Alejandro Monzon Solis"){
+			} else if ($integrante == "Raul Alejandro Monzon Solis"){
 				echo "<center>";
 				echo "<h1>Raul Alejandro Monzon Solis</h1></br>";
-				echo "<img src="raul.jpg"/>";
+				echo "<img src='raul.jpeg'/>";
 				echo "<h3>Edad: 19.</h3>";
 				echo "<h3>Fecha de nacimiento: 06-07-1998.</h3>";
 				echo "<h3>Lugar de nacimiento: Guatemala, Guatemala,</h3>";
