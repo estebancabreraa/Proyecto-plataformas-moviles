@@ -53,7 +53,7 @@
 				echo "<h3>Lugar de nacimiento: Guatemala, Guatemala,</h3>";
 				echo "<h3>Domicilio: 5A AVENIDA B 8-61 ZONA 3 DE MIXCO, NUEVA MONTSERRAT.</h3>";
 				echo "<h3>Telefono: 4215-9325.</h3>";
-				echo "<h3>Correo: kevinmacario.e@gmail.com.</h3>";
+				echo "<h3>Correo: Mac17369@uvg.edu.gt.</h3>";
 				echo "<h3>Lenguajes: Ingl&eacutes, espanol, C#, Java, Python. </h3>";
 				echo "</center>";
 			}
