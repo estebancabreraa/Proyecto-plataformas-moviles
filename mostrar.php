@@ -1,6 +1,14 @@
 <html>
 	<head>
 		<title>Curriculum vitae</title>
+        <style type="text/css">
+			body {
+				background-color: lightblue;
+			}
+			h1, h3 {
+				background-color: #FC6;
+			}
+		</style>
 	</head>
 	<body>
 		<?php
